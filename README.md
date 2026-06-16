@@ -18,7 +18,7 @@
 > Add screenshots here (recommended for top-tier GitHub repos)
 
 ```
-https://github.com/tharindurasmal/Dashboard-grade/issues/1#issue-4671253686
+![Dashboard](assets/dashboard.png)
 
 ```
 
