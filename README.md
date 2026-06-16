@@ -18,7 +18,7 @@
 > Add screenshots here (recommended for top-tier GitHub repos)
 
 ```
-![Dashboard](assets/dashboard.png)
+![Dashboard](dashboard.png)
 
 ```
 
