@@ -37,9 +37,8 @@ Dashboard-grade/
 ```bash id="g7xq2l"
 git clone https://github.com/tharindurasmal/Dashboard-grade.git
 open terminal
-cd Dashboard-grade
 cd dashboard
-code .
+
 ```
 
 ---
