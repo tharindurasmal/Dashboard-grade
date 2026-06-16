@@ -13,17 +13,6 @@
 
 ---
 
-## ✨ Features
-
-* 📊 Interactive analytics dashboard
-* ⚡ Fast and responsive UI
-* 🗄️ Neon PostgreSQL database integration
-* 🔐 Environment-based configuration (.env)
-* 🧩 Modular and scalable architecture
-* 📈 Real-time data handling (if enabled)
-
----
-
 ## 📸 Preview
 
 > Add screenshots here (recommended for top-tier GitHub repos)
