@@ -13,15 +13,6 @@
 
 ---
 
-## 📸 Preview
-
-> Add screenshots here (recommended for top-tier GitHub repos)
-
-```
-![Dashboard](dashboard.png)
-
-```
-
 ---
 
 ## 📁 Project Structure
