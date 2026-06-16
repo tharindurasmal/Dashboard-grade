@@ -18,7 +18,7 @@
 > Add screenshots here (recommended for top-tier GitHub repos)
 
 ```
-<img width="1359" height="643" alt="dfgdfgdfgd" src="https://github.com/user-attachments/assets/935b2196-e4ed-4178-8027-aef9f50ac12f" />
+[<img width="1359" height="643" alt="dfgdfgdfgd" src="https://github.com/user-attachments/assets/935b2196-e4ed-4178-8027-aef9f50ac12f" />](https://github.com/tharindurasmal/Dashboard-grade/issues/1#issue-4671253686)
 
 ```
 
