@@ -18,7 +18,8 @@
 > Add screenshots here (recommended for top-tier GitHub repos)
 
 ```
-/screenshots/dashboard.png
+<img width="1359" height="643" alt="dfgdfgdfgd" src="https://github.com/user-attachments/assets/935b2196-e4ed-4178-8027-aef9f50ac12f" />
+
 ```
 
 ---
