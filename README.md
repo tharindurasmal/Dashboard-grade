@@ -69,9 +69,9 @@ npm install
 
 ---
 
-### 3️⃣ Environment Setup
+### 3️⃣ Environment Setup ## | (Database Setup (Neon PostgreSQL))
 
-Create a `.env` file:
+Create a `.env` file:  
 
 ```bash id="z9xq11"
 DATABASE_URL=your_neon_connection_string
@@ -90,17 +90,17 @@ DATABASE_URL=your_neon_connection_string
 
 ---
 
-### 2️⃣ Get Connection String
+### 2️⃣ Get Connection String and paste it in .env
 
 From Neon dashboard:
 
 ```bash id="n8c1pq"
-postgresql://username:password@host/database?sslmode=require
+DATABASE_URL=postgresql://username:password@host/database?sslmode=require
 ```
 
 ---
 
-### 3️⃣ Run SQL Schema
+### 3️⃣ Run SQL Schema (schema.sql)
 
 Open **Neon SQL Editor** and run:
 
@@ -126,54 +126,3 @@ Then open:
 ```
 http://localhost:3000
 ```
-
----
-
-## 🧠 How It Works
-
-* Frontend renders dashboard UI
-* Backend connects via `DATABASE_URL`
-* Neon PostgreSQL stores all data
-* UI dynamically updates from database
-
----
-
-## 🔒 Security Best Practices
-
-* `.env` file is ignored in Git
-* No sensitive credentials exposed
-* Secure cloud PostgreSQL connection (Neon)
-
----
-
-## 🚀 Deployment
-
-Recommended platforms:
-
-* Vercel (Frontend)
-* Render / Railway (Backend)
-
----
-
-## 📌 Roadmap
-
-* [ ] Authentication system
-* [ ] Role-based access control
-* [ ] Advanced analytics charts
-* [ ] API optimization
-* [ ] Deployment automation
-
----
-
-## 👨‍💻 Author
-
-**Tharindu Rasmal**
-
-* GitHub: https://github.com/tharindurasmal
-* Email: [tharindurasmal1@gmail.com](mailto:tharindurasmal1@gmail.com)
-
----
-
-## ⭐ Support
-
-If you like this project, don’t forget to ⭐ the repo!
